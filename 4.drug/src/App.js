@@ -28,3 +28,5 @@ function App() {
 }
 
 export default App;
+
+// 特にconsole上ではエラーは起こっていない
